@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "드디어 성공한 첫 블로그"
+title:  "My first blog"
 date:   2024-01-23 21:58:25 +0900
 categories: jekyll update
 ---
-# 드디어 성공한 첫 블로그(Eunoia of IM)
+<mark>드디어 성공한 첫 블로그(Eunoia of IM)</mark>
 
 <br>
 오늘 하루, github 블로그를 개설하기 위해 많은 시간을 쏟아부었다....
@@ -21,12 +21,12 @@ categories: jekyll update
 
 >**블로그 개설 및 테마 적용 단계**
 
-1. `username.github.io` 형식의 이름을 가진 새로운 repositorie 생성하기
-2.  `clone` 사용하여 로컬과 github 연결시켜주기
-3. `git add -> git commit -> git push` 과정으로 github에 새롭게 올리기
+1. username.github.io 형식의 이름을 가진 새로운 repositorie 생성하기
+2.  clone 사용하여 로컬과 github 연결시켜주기
+3. git add -> git commit -> git push 과정으로 github에 새롭게 올리기
 4. 테마 적용 전, ruby와 jekyll 다운하기
 -> **_버전을 조심하며 다운!!_**
-5. `bundle` 사용하여 테마를 미리 적용시킨 다음, 잘 적용되었는지 확인하고 `git add -> git commit -> git push` 로 github에도 적용시켜주기
+5. bundle 사용하여 테마를 미리 적용시킨 다음, 잘 적용되었는지 확인하고 git add -> git commit -> git push 로 github에도 적용시켜주기
 
 <br>
 <br>
@@ -44,17 +44,20 @@ categories: jekyll update
 : cmd의 username.github.io 폴더로 접근
 
 
-1.             git add .
-2.             git commit -m "Initial commit"
-3.             git push
+git add .
+{: .message }
+git commit -m "Initial commit"
+{: .message }
+it push
+{: .message }
 <br>
 
 _post 파일에 블로그 글을 넣은 후, 위 세 단계를 진행하면 된다.
-블로그 업로드뿐만 아니라 `블로그에 다른 변경 사항이 생겼을 때 위의 세 단계를 꼭 진행하자!` github를 확인해보면, 진행 사항과 성공 여부와 시간까지 확인할 수 있다. 초록색 체크가 뜨면 성공이다.
+블로그 업로드뿐만 아니라 블로그에 다른 변경 사항이 생겼을 때 위의 세 단계를 꼭 진행하자! github를 확인해보면, 진행 사항과 성공 여부와 시간까지 확인할 수 있다. 초록색 체크가 뜨면 성공이다.
 <br>
 <br>
 
-![Alt text](%EC%A7%84%ED%96%89%EC%82%AC%ED%95%AD-1.PNG)
+![Alt text](%EC%A7%84%ED%96%89%EC%82%AC%ED%95%AD.PNG)
 
 
 <br>
@@ -63,9 +66,9 @@ _post 파일에 블로그 글을 넣은 후, 위 세 단계를 진행하면 된�
 **블로그 이름**
 : Eunoia of IM
 
-`Eunoia : 아름다운 생각` 이라는 단어의 스펠링이 내 이름과 비슷하여 눈여겨보고 있었는데 뜻도 좋아서 블로그 이름으로 쓸 것이다. 근데 조금 심심한 것 같아서 그 뒤를 더 추가해보았다.
+Eunoia : 아름다운 생각 이라는 단어의 스펠링이 내 이름과 비슷하여 눈여겨보고 있었는데 뜻도 좋아서 블로그 이름으로 쓸 것이다. 근데 조금 심심한 것 같아서 그 뒤를 더 추가해보았다.
 
 <br>
 <br>
 
-첫 게시글이라 간단하고 재미있게 작성해보았는데, 다음 게시글부터는 공부한 내용과 관련된 프로젝트를 작성할 것이다. 머신러닝을 중점으로 진행될 예정이다.
+`첫 게시글이라 간단하고 재미있게 작성해보았는데, 다음 게시글부터는 공부한 내용과 관련된 프로젝트를 작성할 것이다. 머신러닝을 중점으로 진행될 예정이다.`
