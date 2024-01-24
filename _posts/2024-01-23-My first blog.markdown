@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "My first blog"
+title:  "드디어 성공한 첫 블로그"
 date:   2024-01-23 21:58:25 +0900
 categories: jekyll update
 ---
-<mark>드디어 성공한 첫 블로그(Eunoia of IM)</mark>
+# 드디어 성공한 첫 블로그(Eunoia of IM)
 
 <br>
 오늘 하루, github 블로그를 개설하기 위해 많은 시간을 쏟아부었다....
